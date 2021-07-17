@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Rohit Gulam  
+
+...
+
+![Twitter Follow](https://img.shields.io/twitter/follow/RohitGulam?style=social)
 
 <!--
 **rohitgulam/rohitgulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
