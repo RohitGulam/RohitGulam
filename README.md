@@ -10,9 +10,9 @@ A web developer and technical blogger passionate about learning new things as we
 I create tech content about Web Development, Freelancing, and JavaScript. You can get these content on my [Blog](https://rohitgulam.hashnode.dev/) and you can follow me on [Twitter](https://twitter.com/RohitGulam) for more cool stuff.
 
  ---
- ### ToolBox 🧰  
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px">
-<img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50px">
+### ToolBox 🧰 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px"><img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50px">
 <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50px">
 <img src ="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress logo" width="50px">
 <img src ="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="Woocommerce logo" width="50px">
