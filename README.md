@@ -11,15 +11,15 @@ I create tech content about Web Development, Freelancing, and JavaScript. You ca
 
  ---
  ### ToolBox 🧰  
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px"> 
- <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50px">
- <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50px">
- <img src ="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress logo" width="50px">
- <img src ="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="Woocommerce logo" width="50px">
- <img src ="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50px">
- <img src ="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="50px">
- <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px">
- <img src ="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery logo" width="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50px">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50px">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress logo" width="50px">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="Woocommerce logo" width="50px">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50px">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="50px">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px">
+<img src ="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery logo" width="50px">
  
  ---
  
