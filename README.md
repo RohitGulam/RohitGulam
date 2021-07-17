@@ -25,9 +25,12 @@ I create tech content about Web Development, Freelancing, and JavaScript. You ca
  Latest Blog Articles 📙
 
 ➡️ [...more articles](https://rohitgulam.hashnode.dev/)
-<!--BLOG-POST-LIST:START-->
 
-<!--BLOG-POST-LIST:END-->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ---
