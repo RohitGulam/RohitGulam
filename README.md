@@ -22,11 +22,11 @@ I create tech content about Web Development, Freelancing, and JavaScript. You ca
  <img src ="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery logo" width="50px">
  
  ---
- Latest Blog Articles 📙
+ 
 
-➡️ [...more articles](https://rohitgulam.hashnode.dev/)
 
-# Blog posts
+
+# Latest Blog Articles 📙
 <!-- BLOG-POST-LIST:START -->
 - [Create Beautiful Animations With This CSS Property](https://rohitgulam.hashnode.dev/create-beautiful-animations-with-css)
 - [4 Useful Web Development Tools That Will Improve Your Workflow](https://rohitgulam.hashnode.dev/4-useful-web-development-tools-that-will-improve-your-workflow)
@@ -34,6 +34,7 @@ I create tech content about Web Development, Freelancing, and JavaScript. You ca
 - [The Top 3 Ways To Center A Div In CSS](https://rohitgulam.hashnode.dev/the-top-3-ways-to-center-a-div-in-css)
 - [What Video Games Teach Us About Programming](https://rohitgulam.hashnode.dev/what-video-games-teach-us-about-programming)
 <!-- BLOG-POST-LIST:END -->
+➡️ [...more articles](https://rohitgulam.hashnode.dev/)
 
 
 
