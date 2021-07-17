@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Rohit Gulam  
 
-...
+---
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/RohitGulam?style=social)
 
