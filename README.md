@@ -31,7 +31,7 @@ I create tech content about Web Development, Freelancing, and JavaScript. You ca
 - [How To Be Productive While Working From Home](https://rohitgulam.hashnode.dev/how-to-be-productive-while-working-from-home)
 - [Create Beautiful Animations With This CSS Property](https://rohitgulam.hashnode.dev/create-beautiful-animations-with-css)
 - [4 Useful Web Development Tools That Will Improve Your Workflow](https://rohitgulam.hashnode.dev/4-useful-web-development-tools-that-will-improve-your-workflow)
-- [5 Habits Worth Building When You're Starting Out As A Developer](https://rohitgulam.hashnode.dev/5-habits-worth-building-when-youre-starting-out-as-a-developer)
+- [5 Habits Worth Building When You&#39;re Starting Out As A Developer](https://rohitgulam.hashnode.dev/5-habits-worth-building-when-youre-starting-out-as-a-developer)
 - [The Top 3 Ways To Center A Div In CSS](https://rohitgulam.hashnode.dev/the-top-3-ways-to-center-a-div-in-css)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [...more articles](https://rohitgulam.hashnode.dev/)
